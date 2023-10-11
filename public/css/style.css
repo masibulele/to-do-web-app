@@ -8,6 +8,9 @@ body{
 .to-do{
     height: 50vh;
 }
+h1{
+    display: inline-block;
+}
 
 input[type=checkbox]:checked + label{
 text-decoration: line-through;
