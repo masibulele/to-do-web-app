@@ -1,0 +1,14 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.to-do{
+    height: 50vh;
+}
+
+input[type=checkbox]:checked + label{
+text-decoration: line-through;
+}
